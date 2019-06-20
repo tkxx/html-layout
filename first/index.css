@@ -1,0 +1,24 @@
+body {
+    background-color: lightgray;
+    margin: 0;
+}
+
+#top-div {
+    height: 20vh;
+    width: absolute;
+    background-color: darkslategray;
+}
+
+#middle-square {
+    height: 100vh;
+    width: 75%;
+    background-color: white;
+    margin: 0 auto;
+}
+
+#bottom-div {
+    height: 10vh;
+    width: 75%;
+    background-color: darkslategray;
+    margin: auto;
+}
